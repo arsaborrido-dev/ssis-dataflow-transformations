@@ -43,6 +43,7 @@ Screenshots are available in `/assets`:
 2. Update connection strings to point to your SQL Server instance.
 3. Execute the stored procedures in `/src/sql`.
        -> Create_Table_Script.sql
+4. Use the SampleCSVData.csv file located in /data as your dataset.
 
 ## Sanitization Notice
 All connection strings, credentials, and related info have been removed. 
