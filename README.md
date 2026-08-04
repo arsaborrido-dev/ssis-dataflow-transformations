@@ -5,7 +5,7 @@ This project demonstrates how SSIS can validate data, filter invalid rows, clean
 
 ## Featured in My YouTube Tutorial
 This SSIS package is featured in my hands-on tutorial published on my YouTube channel, 
-Coffee Break In 10, where I walk through how to build data transformation pipelines using components like Lookup, Derived Column, Aggregate, Conditional Split, and more. The tutorial explains how each transformation contributes to data quality, validation, and routing within an ETL workflow. It also includes actual debugging and error‑fixing sessions, showing how issues surface during execution, how to interpret SSIS error messages, and how to apply practical fixes.
+Coffee Break In 10, where I walk through how to build data transformation pipelines using components like Lookup, Derived Column, Aggregate, Conditional Split, and more. The tutorial explains how each transformation contributes to data quality, validation, and routing within an ETL workflow. It also includes actual debugging and error‑fixing sessions, showing how issues surface during execution and how to apply practical fixes.
 
 Watch the tutorial: YouTube Channel - https://www.youtube.com/@CoffeeBreakIn10
 - https://www.youtube.com/watch?v=VHyYoiiil5k&t=1s - SSIS Data Transformations: 3 Ways to Clean & Load Data (Part 1 — Data Flow Components)
