@@ -9,6 +9,7 @@ Coffee Break In 10, where I walk through how to build data transformation pipeli
 
 Watch the tutorial: YouTube Channel - https://www.youtube.com/@CoffeeBreakIn10
 - https://www.youtube.com/watch?v=VHyYoiiil5k&t=1s - SSIS Data Transformations: 3 Ways to Clean & Load Data (Part 1 — Data Flow Components)
+- https://www.youtube.com/watch?v=g55q_GX_n6o - Fix Bad Data in SSIS: Merge Join + Sort + Script Component (Extended Part 1 Walkthrough)
 
 ## Technologies
 - SQL Server
